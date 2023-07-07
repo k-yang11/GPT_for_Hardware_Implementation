@@ -893,5 +893,3 @@ endmodule
 ```
 
 This testbench generates a clock signal and applies two different test patterns to the `image` input. The output `result` can be observed in a waveform viewer during simulation to verify the functionality of the `image_processing_pipeline` module. Note that this is a simple testbench, and more comprehensive test cases should be added to thoroughly verify the module's functionality.
-
-Thread generated with <a href="https://chat.openai.com">ChatGPT</a> and downloaded with <a href="https://botrush.io">Botrush</a>
