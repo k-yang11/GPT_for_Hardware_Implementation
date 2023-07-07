@@ -28,3 +28,4 @@ Contributions from the open-source community are always welcomed and greatly app
 
 ## Contact
 If you have any questions or suggestions, please feel free to open an issue in this repository.
+Also, you can contact us through email: Yuqin Zhao <yzhao229@sheffield.ac.uk>.
