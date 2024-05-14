@@ -15,7 +15,7 @@ The repository includes three markdown files, each corresponding to a different 
 ## How to Use
 To utilize this repository, clone the repo and explore the markdown files. These files contain detailed dialogues and source code, providing insights into how we used a conversational AI model (GPT-4) to guide each case study and perform hardware design through natural language entry.
 ```
-git clone https://github.com/your_username/GPT_for_Hardware_Implementation.git
+git clone https://github.com/k-yang11/GPT_for_Hardware_Implementation.git
 ```
 
 ## Contribution
